@@ -1,0 +1,21 @@
+{
+  "name": "prueba-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hola": "node server.js",
+    "tirarDado": "node tirarDado.js",
+    "server": "node server.js",
+    "numPalabra": "node numPalabra.js",
+    "crearPalabra": "node crearPalabra.js",
+    "promesa": "node promise.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^22.4.3",
+    "node": "^10.0.0"
+  }
+}
